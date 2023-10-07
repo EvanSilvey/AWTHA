@@ -3,6 +3,8 @@ The database works and is completely set up. I have never used gitignore before 
 to keep my database info private. If the database does not work, please feel free to contact me for the
 backend .env or allow me to demo the website
 
+Update: I have included the .env file in the application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
